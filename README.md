@@ -1,5 +1,5 @@
 # Bird Migration Project
-This project does not produce accurate results (in terms of what will actually happen in real life). Instead it just creates a graph with the current and new bird migration route on it. This was the project I created for my A-Level Computing coursework.
+This project does not produce accurate results (with regards to accurate depicitons of bird routes). Instead it just creates a graph with the current and new bird migration route on it. I wanted to work with GUIs.  This was the project I created for my A-Level Computing coursework. 
 
 # Breakdown of what this project does
 - 1) Introduction Window: Just a window that introduces the user to the program with a picture on it. 
